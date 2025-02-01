@@ -1,0 +1,13 @@
+I've used a couple different languages and frameworks for different projects at work over the last few years here is a list with some of my thoughts.
+
+- Dart and Flutter for IOS and Android app.
+	Dart seemed fine on its own, Flutter I found kind of annoying to use and building the actually apps and deploying to the respective app  stores was very annoying. Also in my opinion the Flutter widgets do not look very good on either platform so for a more polished ui you have to spend a lot of time making IOS and Android specific customizations.
+
+- TypeScript in NodeJS and Remix for a web app.
+	Remix was pretty easy to use for building web apps and TypeScript is pretty nice to code in. It does take some fiddling to get all the configurations right but I think some newer runtimes like deno and bun might make the setup easier now.
+
+- Go
+	AOT compilation is nice and makes it alot easier to deploy the finished program. Cross compilation is easy. Much more tedious to write than Python or JS/TS.
+
+- Python and Django for a web app.
+	Python is pretty productive and easy to write code in. Django is also a very powerful framework that can get useful web apps running pretty quickly. Managing python versions and dependencies can be more annoying than say nvm and npm for node, but dev containers in vscode help with this quite a bit.
